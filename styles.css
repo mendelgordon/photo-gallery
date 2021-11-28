@@ -1,0 +1,32 @@
+body {
+  max-width: 945px;
+  margin: auto;
+  padding: 1em;
+  background-color: rgb(248, 229, 229);
+}
+
+header {
+  background-color: #caa6a6;
+  padding: 10%;
+  text-align: center;
+  font: 2rem sans-serif;
+  border-radius: 1rem;
+}
+
+body p {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 1.5em;
+  justify-items: stretch;
+  align-content: center;
+  justify-content: space-between;
+  align-items: stretch;
+}
+
+body img {
+  object-fit: cover;
+  aspect-ratio: 1/1;
+  border-radius: 1em;
+  border: #caa6a6 solid 1px;
+  background-color: rgb(114, 112, 231);
+}
