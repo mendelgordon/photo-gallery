@@ -28,5 +28,125 @@ body img {
   aspect-ratio: 1/1;
   border-radius: 1em;
   border: #caa6a6 solid 1px;
-  background-color: rgb(114, 112, 231);
+}
+
+/* add background colors to all of the images */
+#a {
+  background-color: #ffbe0b;
+}
+
+#b {
+  background-color: #fb5607;
+}
+
+#c {
+  background-color: #ff006e;
+}
+
+#d {
+  background-color: #8338ec;
+}
+
+#e {
+  background-color: #3a86ff;
+}
+
+#f {
+  background-color: #0a2a92;
+}
+
+#g {
+  background-color: #0f5e5e;
+}
+
+#h {
+  background-color: #1f9b9b;
+}
+
+#i {
+  background-color: #0a2a92;
+}
+
+#j {
+  background-color: #3a86ff;
+}
+
+#k {
+  background-color: #8338ec;
+}
+
+#l {
+  background-color: #fb5607;
+}
+
+#m {
+  background-color: #ff006e;
+}
+
+#n {
+  background-color: #ffbe0b;
+}
+
+#o {
+  background-color: #0f5e5e;
+}
+
+#p {
+  background-color: #1f9b9b;
+}
+
+#q {
+  background-color: #0a2a92;
+}
+
+#r {
+  background-color: #3a86ff;
+}
+
+#s {
+  background-color: #8338ec;
+}
+
+#t {
+  background-color: #fb5607;
+}
+
+#u {
+  background-color: #ff006e;
+}
+
+#v {
+  background-color: #ffbe0b;
+}
+
+#w {
+  background-color: #0f5e5e;
+}
+
+#x {
+  background-color: #1f9b9b;
+}
+
+#y {
+  background-color: #0a2a92;
+}
+
+#z {
+  background-color: #3a86ff;
+}
+
+#aa {
+  background-color: #8338ec;
+}
+
+#ab {
+  background-color: #fb5607;
+}
+
+#ac {
+  background-color: #ff006e;
+}
+
+#ad {
+  background-color: #ffbe0b;
 }
